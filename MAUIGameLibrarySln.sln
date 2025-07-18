@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAUIGameLibrary", "MAUIGameLibrary\MAUIGameLibrary.csproj", "{101A4034-04AA-4781-B91F-822388B5564E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{101A4034-04AA-4781-B91F-822388B5564E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{101A4034-04AA-4781-B91F-822388B5564E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{101A4034-04AA-4781-B91F-822388B5564E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{101A4034-04AA-4781-B91F-822388B5564E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B01A3BE1-DC18-4B2B-BBC4-36F626455390}
+	EndGlobalSection
+EndGlobal
